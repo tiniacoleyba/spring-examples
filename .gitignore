@@ -4,6 +4,9 @@
 # Build directories
 /*/target/**
 
+# Working on md file
+WORKING.md
+
 # Log file
 *.log
 
