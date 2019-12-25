@@ -3,6 +3,9 @@
 
 # Build directories
 /*/target/**
+/*/.classpath
+/*/.project
+/*/.settings
 
 # Working on md file
 WORKING.md
